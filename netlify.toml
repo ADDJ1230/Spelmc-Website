@@ -1,0 +1,40 @@
+[[redirects]]
+    from = "/science/*"
+    to = "https://stats.unixfox.eu/analyses/:splat"
+    status = 200
+    force = true
+
+[[redirects]]
+    from = "/discord"
+    to = "https://discord.gg/ejSnEDk"
+    status = 302
+
+[[redirects]]
+    from = "/twitter"
+    to = "https://twitter.com/AlteiriaMC"
+    status = 302
+
+[[redirects]]
+    from = "/facebook"
+    to = "https://facebook.com/alteiria"
+    status = 302
+
+[[redirects]]
+    from = "/presentation"
+    to = "https://minecraft.fr/forum/threads/202966"
+    status = 302
+
+[[redirects]]
+    from = "/postuler"
+    to = "https://goo.gl/forms/MSVczguQJkso05T83"
+    status = 302
+
+[[redirects]]
+    from = "/doc/:project/*"
+    to = "https://alteiria.gitlab.io/:project"
+    status = 302
+
+[[redirects]]
+    from = "/doc"
+    to = "https://alteiria.gitlab.io"
+    status = 302
